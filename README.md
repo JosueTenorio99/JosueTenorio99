@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JosueTenorio99/JosueTenorio99/blob/a83c23e189c047140a758efe29436416e3a71d57/Designer.png" width="1200"/>
+  <img decoding="async" src="https://github.com/JosueTenorio99/JosueTenorio99/blob/a83c23e189c047140a758efe29436416e3a71d57/Designer.png" width="1800"/>
 </div>
 
 <h1>
@@ -55,9 +55,9 @@ I am a QA Engineer with experience in manual and automated testing, agile method
    ### Soft Skills: 
    Leadership, Conflict Resolution, Analytical Thinking, Teamwork
 
-📫 Connect with Me
+## 📫 Connect with Me
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-tenorio/)
+## [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-tenorio/)
 
 ### Let's collaborate and ensure top-quality software together! 🚀
 
