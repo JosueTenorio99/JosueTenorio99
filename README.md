@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JosueTenorio99/JosueTenorio99/blob/d67344cf770235eae9471159d6b1341e948c6118/Designer-5.jpeg" width="1200"/>
+  <img decoding="async" src="https://github.com/JosueTenorio99/JosueTenorio99/blob/a83c23e189c047140a758efe29436416e3a71d57/Designer.png" width="1200"/>
 </div>
 
 <h1>
