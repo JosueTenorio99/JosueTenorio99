@@ -55,9 +55,9 @@ I am a QA Engineer with experience in manual and automated testing, agile method
    ### Soft Skills: 
    Leadership, Conflict Resolution, Analytical Thinking, Teamwork
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
-## [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-tenorio/)
+ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josué-tenorio/)
 
 ### Let's collaborate and ensure top-quality software together! 🚀
 
